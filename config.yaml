@@ -1,0 +1,13 @@
+excel_path: 'calendar.xlsx'
+
+sheet_special: '生日'
+
+date_skip_row: 6
+
+date_skip_col: 1
+
+holiday_color: 'E72E1b'
+
+workday_color: '368823'
+
+max_length: 5
